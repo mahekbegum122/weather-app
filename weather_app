@@ -1,0 +1,11 @@
+Description
+This Weather App allows users to check the current weather of any city worldwide. Built using HTML, CSS, and JavaScript, the app retrieves real-time weather data from the OpenWeatherMap API. Users simply input the name of a city, and the app displays relevant weather information, including temperature, weather description, humidity, and wind speed.
+
+The app is designed to be lightweight and responsive, offering a simple and user-friendly interface. The app uses a GET request to fetch weather data from OpenWeatherMap and dynamically displays it on the page without requiring page reloads.
+
+Features:
+City Search: Users can input a city name to get the current weather.
+Weather Details: Displays temperature (in Celsius), weather description, humidity, and wind speed.
+Responsive Design: The app adjusts to different screen sizes for both desktop and mobile use.
+
+This project demonstrates the use of APIs, DOM manipulation, and basic front-end web development principles.
