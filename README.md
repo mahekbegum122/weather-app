@@ -4,6 +4,8 @@ The Weather App is a simple web-based application that provides users with real-
 
 You can adjust this description based on any specific features or technologies you’ve used in your app. Here’s a more detailed version if you'd like to add specifics:
 
+Live Demo:https://maheks-weather-app.netlify.app/
+
 Detailed Example:
 Weather App - Real-time Weather Forecast
 The Weather App is a web application that provides users with accurate and up-to-date weather information. Using the OpenWeatherMap API, the app fetches real-time weather data based on either the user's city input or their current geographical location. It displays crucial weather metrics, such as temperature, humidity, wind speed, and atmospheric pressure, in an easy-to-read formate
